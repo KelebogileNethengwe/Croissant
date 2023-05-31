@@ -5,3 +5,10 @@ body {
 h2 {
   text-align: center;
 }
+
+a {
+  text-decoration: none;
+  font-size: 34px;
+  color: black;
+  padding: 20px;
+}
